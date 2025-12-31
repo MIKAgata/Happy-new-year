@@ -92,3 +92,5 @@ python new_year_ascii.py
 
 Tekan Enter saat welcome screen muncul
 
+### perhatian code masi terdapat error jadi mohon maaf, nanti saya perbaiki
+
